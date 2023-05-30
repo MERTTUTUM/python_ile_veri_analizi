@@ -1,4 +1,4 @@
-# ***PYTHON İLE VERİ ANALİZİ ÖRNEK UYGULAMALARI*** 
+ ***PYTHON İLE VERİ ANALİZİ ÖRNEK UYGULAMALARI*** 
 
 <sub> Merhaba, Bu depoda jupyter notebook üzerinde numpy ve pandas kütüphanelerini kullanarak çeşitli kaynak ve zengin örneklerle uygulamalar yaptım umarım faydalı olur iyi çalışmalar</sub>.:relaxed:
 
